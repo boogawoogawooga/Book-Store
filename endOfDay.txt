@@ -1,0 +1,18 @@
+New Customers: Name    / ID       / Balance      / Premium
+F F / 8 / 41.30200000000001 / true
+
+New Orders: Customer
+            Item / Item Num
+            Total
+F F
+Panzerfaust / 7
+Pentagram / 10
+$22.275000000000002
+
+F F
+The Amityville Horror / 4
+Books of Blood / 5
+$9.027000000000001
+
+
+Total Daily Revenue: $31.302000000000003
